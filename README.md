@@ -1,6 +1,10 @@
 # UFly
 A cross-platform application, where the users are those that set their budget in order to take advantage of the seasonality experienced by airline ticket prices.
 
+Below you can see a some screenshots of UFly App, there are more UIs that UFly contains that have not been screenshoted.
+
+Recommendation: _Go through the UFly.pdf files in order to get a better understanding of the created Saas._
+
 <img width="343" alt="Captura_de_pantalla_2022-11-23_a_las_12 22 35-removebg-preview" src="https://user-images.githubusercontent.com/60660530/203534653-50fce480-7726-428f-830f-6c0e8aa54787.png">
 
 <img width="169" alt="Captura_de_pantalla_2022-11-23_a_las_12 24 11-removebg-preview" src="https://user-images.githubusercontent.com/60660530/203534896-76d4022a-8985-40a4-8ed4-9901685866db.png">
